@@ -1,2 +1,2 @@
-# Galazies
+# Galaxies
 LAMBDA project
